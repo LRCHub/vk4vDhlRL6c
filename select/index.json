@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Tropical Therapy",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-26T17:43:14.071114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tropical Therapy",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Tropical_Therapy_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tropical Therapy",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Tropical_Therapy_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Tropical Therapy [OFFICIAL MUSIC VIDEO]",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_ONE_OK_ROCK_-_Tropical_Therapy_[OFFICIAL_MUSIC_VIDEO]_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tropical Therapy",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Tropical_Therapy_ONE_OK_ROCK.txt"
+    }
+  ]
+}
